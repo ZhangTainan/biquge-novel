@@ -11,16 +11,15 @@ Accept-Encoding: gzip, deflate, br
 Accept-Language: zh,zh-CN;q=0.9,en;q=0.8
 Cache-Control: no-cache
 Connection: keep-alive
-Cookie: fikker-M0cL-shyZ=GdyMMXsdN8L6A8kFITQLiI7fY2IrcncI; fikker-M0cL-shyZ=GdyMMXsdN8L6A8kFITQLiI7fY2IrcncI; Hm_lvt_f4f67ed343c83044d7908f39f0517ee7=1664691565; fikker-FqLS-laX3=Rm4OTErmvmTmVg8w6L0mVKrSpUPAdqDU; fikker-FqLS-laX3=Rm4OTErmvmTmVg8w6L0mVKrSpUPAdqDU; Hm_lpvt_f4f67ed343c83044d7908f39f0517ee7=1664696104
-Host: www.um16.cn
+Cookie: Hm_lvt_c4eec4b108dac241786b4218f0d27642=1666266826; Hm_lpvt_c4eec4b108dac241786b4218f0d27642=1666266826
+Host: www.slyqw.com
 Pragma: no-cache
-Referer: https://www.um16.cn/dark.html
 sec-ch-ua: "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
 sec-ch-ua-mobile: ?0
 sec-ch-ua-platform: "Windows"
 Sec-Fetch-Dest: document
 Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
+Sec-Fetch-Site: none
 Sec-Fetch-User: ?1
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
