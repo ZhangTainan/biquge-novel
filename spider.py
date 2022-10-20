@@ -1,5 +1,3 @@
-from wsgiref import headers
-
 import requests
 from bs4 import BeautifulSoup
 from copyheaders import headers_raw_to_dict
